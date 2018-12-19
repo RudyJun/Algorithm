@@ -1,0 +1,10 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"versionCode": 2,
+		"version": "0.0.2",
+		"desc": "test apk",
+		"type": 2
+	}
+}
